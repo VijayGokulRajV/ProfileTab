@@ -44,3 +44,6 @@ export interface Employee {
   emergency_contact_name: string | null;
   emergency_contact_no: string;
 }
+
+
+
